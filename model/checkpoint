@@ -1,0 +1,2 @@
+model_checkpoint_path: "binary_addition_rnn_model"
+all_model_checkpoint_paths: "binary_addition_rnn_model"
